@@ -31,3 +31,7 @@ _Post Comments before and after_
 ![Post Comments](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_CPC.png)
 
 _Cost Per Click before and after_
+
+![Post Comments](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_CTR.png)
+
+_Click Through Rate before and after_
