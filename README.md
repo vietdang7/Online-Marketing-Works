@@ -34,14 +34,47 @@ _Post Comments before and after_
 
 ___
 
-![Post Comments](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_CPC.png)
+![CPC](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_CPC.png)
 
 _Cost Per Click before and after_
 
 ___
 
-![Post Comments](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_CTR.png)
+![CTR](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_CTR.png)
 
 _Click Through Rate before and after_
 
 ___
+
+### Customer case: MIA Shop 
+
+![Like trend](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/MIA_likes.png)
+
+_The job started from January 2018_
+
+___
+
+![Key Metrics](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/MIA_KeyMetrics.png)
+
+_Key Metrics before and after_
+
+___
+
+![Post Comments](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/MIA_comments.png)
+
+_Post Comments before and after_
+
+___
+
+!CPC](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/MIA_CPC.png)
+
+_Cost Per Click before and after_
+
+___
+
+![CTR](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/MIA_CTR.png)
+
+_Click Through Rate before and after_
+
+___
+
