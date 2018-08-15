@@ -29,3 +29,5 @@ _Key Metrics before and after_
 _Post Comments before and after_
 
 ![Post Comments](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_CPC.png)
+
+_Cost Per Click before and after_
