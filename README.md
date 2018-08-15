@@ -66,7 +66,7 @@ _Post Comments before and after_
 
 ___
 
-!CPC](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/MIA_CPC.png)
+![CPC](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/MIA_CPC.png)
 
 _Cost Per Click before and after_
 
