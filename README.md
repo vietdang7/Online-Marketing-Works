@@ -14,7 +14,7 @@ General tasks are:
 7. Content Marketing
 8. Visual Design with Photoshop
 
-### Customer case: Le Quan Mobile 
+### Customer case: [Le Quan Mobile](https://www.facebook.com/lequanmobile/)
 
 ![Like trend](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LeQuan_Likes.png)
 
@@ -49,7 +49,7 @@ ___
 
 
 
-### Customer case: MIA Shop 
+### Customer case: [MIA Shop](https://www.facebook.com/damsi.net) 
 
 ![Like trend](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/MIA_likes.png)
 
