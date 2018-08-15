@@ -26,14 +26,22 @@ ___
 
 _Key Metrics before and after_
 
+___
+
 ![Post Comments](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_PostComments.png)
 
 _Post Comments before and after_
+
+___
 
 ![Post Comments](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_CPC.png)
 
 _Cost Per Click before and after_
 
+___
+
 ![Post Comments](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_CTR.png)
 
 _Click Through Rate before and after_
+
+___
