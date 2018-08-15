@@ -19,3 +19,7 @@ General tasks are:
 ![Like trend](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LeQuan_Likes.png)
 
 _The job started from February 2018_
+
+![Key Metrics](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LQ_Keymetrics.png)
+
+_Key Metrics before and after_
