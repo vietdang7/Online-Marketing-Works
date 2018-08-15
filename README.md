@@ -17,4 +17,5 @@ General tasks are:
 ### Customer case: Le Quan Mobile 
 
 ![Like trend](https://raw.githubusercontent.com/vietdang7/Online-Marketing-Works/master/LeQuan_Likes.png)
+
 _The job started from February 2018_
